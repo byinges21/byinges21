@@ -21,15 +21,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | R Language (Network Analysis), R (Clustering Coefficients, Modularity), R (Degree Centrality) | <a href="https://github.com/RaineJohnson/Nmap-Scripts.git">Nmap Scripting Engine</a>|
 |	Tableau, Excel, Data Visualization, Business Statistics   | <a href="https://github.com/RaineJohnson/337Assignment2.git">OTP Generator</a>|
 | Full-Stack Development (React, Node.js), Front-End Development (UI/UX)   | <a href="https://github.com/RaineJohnson/XOR-Cipher.git">XOR Cipher</a>|
-| SESSION AUTHENTICATION                        | <a href="https://github.com/RaineJohnson/Session-Authentication.git">Session Authentication Using Node.js</a>|
-| EXPRESS SESSION MANAGEMENT                    | <a href="https://github.com/RaineJohnson/Express-Session-Management.git">Securing An Express Application</a>|
-| OAUTH APPLICATION                             | <a href="https://github.com/RaineJohnson/OAuth-Through-GitHub.git">GitHub OAuth Application</a>|
-| MANAGING API KEYS AND FILES                   | <a href="https://github.com/RaineJohnson/Node-Env-Keys-Management.git">API Key and File Management</a>|
-| DATA SECURITY                                 | <a href="https://github.com/RaineJohnson/Data-Security-Application.git">School Database Security</a>|
-| SQL INJECTION PREVENTION                      | <a href="https://github.com/RaineJohnson/SQL-Injection-Project.git">Ice Cream Web Application</a>|
-| PREVENTING CROSS-SITE SCRIPTING ATTACKS       | <a href="https://github.com/RaineJohnson/Preventing-XSS-Attacks.git">Fake Restaurant Reviews Web Application</a>|
-| DEFENSIVE CODING                              | <a href="https://github.com/RaineJohnson/Defensive-Coding.git">Proactive Code Security Application</a>|
-| CYBERSECURITY DOCUMENTATION                   | <a href="https://github.com/RaineJohnson/Non-Code-Security-Documentation.git">Non-Code Security Documentation</a>|
  
 ## Tools
  
