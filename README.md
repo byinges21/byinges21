@@ -15,8 +15,8 @@ My journey in computer science has led me to develop a passion for cybersecurity
  
 ## Projects
  
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
+| Skill                                         |                                               Associated Project         |
+|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
   SQL Pattern Detection, 
   Machine Learning (Random Forest), 
   PostgreSQL Integration, 
