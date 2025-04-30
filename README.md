@@ -7,12 +7,12 @@
 </a>
 </a>
  
-I am an undergraduate at the University of Washington Bothell with a profound interest in technology and cybersecurity, with a dedication to solving complex security problems.
+I am a recent bachelor of science grad at the University of Washington Bothell with a profound interest in technology and data, with a passion that lies in transforming complex data into clear, actionable visual stories that drive informed decisions and foster positive change.
  
 ## Objective
  
-My journey in computer science has led me to develop a passion for cybersecurity and people skills. I'm setting my sights on a security engineer job, where I can strive to implement secure solutions to problems while also having the people skills to manage teams efficiently and effectively.
- 
+My journey in data vizualization / analytics and computer science has led me to develop a passion for data analysis and people skills. I'm setting my sights on a data analyst job, where I can strive to drive impactful solutions using my expertise in data-driven insights to optimize decision-making while also having the people skills to manage teams efficiently and effectively.  
+
 ## Projects
  
 | Skill                                         |                                               Associated Project         |
