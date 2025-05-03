@@ -21,7 +21,7 @@ My journey in data vizualization / analytics and computer science has led me to 
 </a>|
 | R Language (Network Analysis), R (Clustering Coefficients, Modularity), R (Degree Centrality) | <a href="https://github.com/RaineJohnson/Nmap-Scripts.git">Nmap Scripting Engine</a>|
 |	Tableau, Excel, Data Visualization, Business Statistics   | <a href="https://github.com/RaineJohnson/337Assignment2.git">OTP Generator</a>|
-| Full-Stack Development (React, Node.js), Front-End Development (UI/UX)   | <a href="https://github.com/RaineJohnson/XOR-Cipher.git">XOR Cipher</a>|
+| Full-Stack Development (React, Node.js), Front-End Development (UI/UX)   | <a href="https://github.com/byinges21/Goal-lab-App/tree/main/Goal-Lab-master">Goal Lab App</a>|
  
 ## Programming Languages
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)](https://www.python.org/)
