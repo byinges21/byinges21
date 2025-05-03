@@ -17,7 +17,9 @@ My journey in data vizualization / analytics and computer science has led me to 
  
 | Skill                                         |                                               Associated Project         |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------|
-  SQL Pattern Detection, Machine Learning (Random Forest), PostgreSQL Integration, Model Evaluation (Precision, Recall) | <a href="https://github.com/RaineJohnson/C-Plus-Plus-Projects.git">C++ Projects</a>|
+  SQL Pattern Detection, Machine Learning (Random Forest), PostgreSQL Integration, Model Evaluation (Precision, Recall) | <a href="[https://github.com/RaineJohnson/C-Plus-Plus-Projects.git](https://github.com/byinges21/Fraud-Detection-System-for-Financial-Transactions)">Fraud-Detection-System-for-Financial-Transactions
+Public
+</a>|
 | R Language (Network Analysis), R (Clustering Coefficients, Modularity), R (Degree Centrality) | <a href="https://github.com/RaineJohnson/Nmap-Scripts.git">Nmap Scripting Engine</a>|
 |	Tableau, Excel, Data Visualization, Business Statistics   | <a href="https://github.com/RaineJohnson/337Assignment2.git">OTP Generator</a>|
 | Full-Stack Development (React, Node.js), Front-End Development (UI/UX)   | <a href="https://github.com/RaineJohnson/XOR-Cipher.git">XOR Cipher</a>|
