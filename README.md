@@ -21,6 +21,7 @@ My journey in data vizualization / analytics and computer science has led me to 
 </a>|
 | R Language (Network Analysis), R (Clustering Coefficients, Modularity), R (Degree Centrality) | <a href="https://github.com/byinges21/Social-Network-Analysis-R-and-SQL">Social Network Analysis</a>|
 |(Data Wrangling & Cleaning (pandas) - Statistical Testing (scipy.stats) - Data Visualization (matplotlib, seaborn) - Exploratory Data Analysis (EDA) -  Communication of insights with charts and summary metrics | <a href="https://github.com/byinges21/Analyzing-Titanic-Survival-Rates-by-Gender">Analyzing Titanic Survival Rates by Gender</a>|
+|Time series and trend analysis - Clustering (KMeans) - Linear regression modeling - Correlation analysis - Data visualization (line graphs, bar charts, scatter plots) | <a href="https://github.com/byinges21/Analyzing-U.S.-Immigration-Trends-1980-2021-">Analyzing U.S. Immigration Trends (1980–2021)</a>|
 |	Tableau, Excel, Data Visualization, Business Statistics   | <a href="https://github.com/byinges21/data-challenge-nyc-complaints">data-challenge-nyc-complaints</a>|
 | Full-Stack Development (React, Node.js), Front-End Development (UI/UX)   | <a href="https://github.com/byinges21/Goal-lab-App/tree/main/Goal-Lab-master">Goal Lab App</a>|
  
