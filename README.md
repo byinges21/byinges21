@@ -20,8 +20,8 @@ My journey in data vizualization / analytics and computer science has led me to 
   SQL Pattern Detection, Machine Learning (Random Forest), PostgreSQL Integration, Model Evaluation (Precision, Recall) | <a href="https://github.com/byinges21/Fraud-Detection-System-for-Financial-Transactions">Fraud-Detection-System-for-Financial-Transactions
 </a>|
 | R Language (Network Analysis), R (Clustering Coefficients, Modularity), R (Degree Centrality) | <a href="https://github.com/byinges21/Social-Network-Analysis-R-and-SQL">Social Network Analysis</a>|
-| Python  (Data Wrangling & Cleaning (pandas), 
-Statistical Testing (scipy.stats), 
+| Python  (Data Wrangling & Cleaning (pandas),|
+|Statistical Testing (scipy.stats),|
 Data Visualization (matplotlib, seaborn), 
 Exploratory Data Analysis (EDA) Communication of insights with charts and summary metrics | <a href="https://github.com/byinges21/Analyzing-Titanic-Survival-Rates-by-Gender">Analyzing Titanic Survival Rates by Gender</a>|
 |	Tableau, Excel, Data Visualization, Business Statistics   | <a href="https://github.com/byinges21/data-challenge-nyc-complaints">data-challenge-nyc-complaints</a>|
