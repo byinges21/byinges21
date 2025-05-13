@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/betelhem-yinges-906b96279/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
 </a>
- <a href="https://github.com/RaineJohnson/Non-Code-Security-Documentation/blob/main/Raine%20Johnson%20Resume.pdf" target="_blank">
+ <a href="https://github.com/byinges21/Documents/blob/main/Resume_Betelhem_Yinges_May_2025.pdf" target="_blank">
 <img src="https://img.shields.io/badge/-Resume-FFD700?&style=for-the-badge&logo=googledocs&logoColor=white" />
 </a>
 </a>
