@@ -7,7 +7,7 @@
 </a>
 </a>
  
-I am a soon to be bachelor of science grad at the University of Washington Bothell with a profound interest in technology and data, with a passion that lies in transforming complex data into clear, actionable visual stories that drive informed decisions and foster positive change.
+I am a recent grad at the University of Washington Bothell with a profound interest in technology and data, with a passion that lies in transforming complex data into clear, actionable visual stories that drive informed decisions and foster positive change.
  
 ## Objective
  
